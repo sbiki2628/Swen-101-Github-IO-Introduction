@@ -6,8 +6,8 @@ Hey everyone, my name is Biki and I am currently a Freshman studying Software En
 ![image](https://user-images.githubusercontent.com/89430427/139405578-f8a8eb89-cefd-45ee-b565-ea808e1c1396.png)
 
 ### What I hope to learn while in SWEN 101:
--How the development process works as a whole
--How to work better with other group mates
--What a professional work environment would demand
--What kinda skills would the job demand
+- How the development process works as a whole
+- How to work better with other group mates
+- What a professional work environment would demand
+- What kinda skills would the job demand
  
