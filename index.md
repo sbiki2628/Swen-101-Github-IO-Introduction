@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Introduction:
+Hey everyone, my name is Biki and I am currently a Freshman studying Software Engineering at RIT! I was born in India, however I grew up in Hartford, Vermont. I went to school at Hartford High and during my time in school, I took a particular interest in Software Engineering and programming. My parents own a takeout food business and I usually work there during the school year or over the summer. When I'm not working I like to socialize, play video games, and play tennis. 
 ## Header 2
 ### Header 3
 
